@@ -1,6 +1,6 @@
 #include <stdio.h>
 // Les Boucles:
-// Challenge 1 : table de multiplication 
+// Challenge 2 : pyramide d'étoile 
 // prof Aymane
 // prof Said
 // étudiant Bilal EZZAIM
@@ -9,7 +9,7 @@ void premierFonction()
 {
     printf("                 =================================================================================\n");
     printf("                 =================================================================================\n");
-    printf("                 ===================== Challenge 1 : table de multiplication =====================\n");
+    printf("                 ===================== Challenge 1 :  pyramide d'étoile ==========================\n");
     printf("                 =================================================================================\n");
     printf("                 =================================================================================\n");
 }
