@@ -17,10 +17,12 @@ void premierFonction()
 int main()
 {
     premierFonction();
-
-    for (int i = 0; i < 7; i++)
+    int l ;
+    printf("ecrivez le nomber de linge : ");
+    scanf("%d",&l);
+    for (int i = 0; i < l; i++)
     {
-        for (int j = 0 ; j < 7 - i; j++)
+        for (int j = 0 ; j < l - i; j++)
         {
             printf(" ");
         }
